@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# Jamming
+A Spotify Search clone
+=======
 Spotify Clone Project
 Welcome to my Spotify Clone project! This application is built using React.js and replicates several key features of Spotify, allowing users to interact with music in a dynamic and user-friendly way. The goal of this project was to create a functional Spotify replica that utilizes React components, passing data seamlessly through props.
 
@@ -41,3 +45,4 @@ npm start
 Contributing
 I am open to suggestions and contributions to make this project even better! If you have any ideas or feedback, please feel free to open an issue or submit a pull request.
 
+>>>>>>> 1d24be5 (Test commit 1)
