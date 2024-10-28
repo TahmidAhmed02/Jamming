@@ -53,6 +53,7 @@ function SearchBar({ token }) {
     //return
     return (
       <div>
+        <h1 id='jamming'>JAMMMING</h1>
         <input className='input' type="text" placeholder="Search for Songs" onChange={liveChange}/>
         <button className='button' onClick={() => setsongSearched(liveinput)}>Search</button>
         <SearchResult passedSong={songSearched} artistName={artist} tracksName={tracksName} />
