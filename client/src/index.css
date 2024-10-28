@@ -1,0 +1,8 @@
+body {
+    background-image: url('./images/musicBackground3.jpg');
+    background-size: cover; /* Make the image cover the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: repeat-y; /* Repeat the image only vertically */
+    min-height: 100vh; /* Ensure it covers at least the full viewport height */
+    margin: 0; 
+}

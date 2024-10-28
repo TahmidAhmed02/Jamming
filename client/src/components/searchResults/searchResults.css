@@ -1,0 +1,115 @@
+.addTrackButton{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+    font-size: 12px;
+    color: white;
+    background-color: #ff9d00;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.deleteTrackButton{
+    width: 50px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: 12px;
+    color: white;
+    background-color: #ff9d00;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.hideAndDelete{
+    width: 70px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: 8px;
+    color: white;
+    background-color: #ff9d00;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+
+}
+
+.track{
+    width: 250px;            
+    padding: 10px 15px;      
+    font-size: 16px; 
+    color: #ff9d00bc;          
+    outline: none;          
+    transition: all 0.3s ease; 
+
+}
+
+
+.italic{
+    font-style: italic;
+    font-size: 13px;
+    font-weight: bolder;
+}
+
+
+.playlistHeader{
+    color: #fec974;
+}
+.savePlaylist {
+    width: 120px;
+    height: 40px;
+    border: 2px solid #ff9d00;
+    border-radius: 20px;
+    font-size: 16px;
+    color: #ff9d00a8;
+    background-color: #F5F5F5;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.playlistName{
+    width: 200px;   
+    height: 10px;         
+    padding: 10px 15px;      
+    border: 2px solid #ff9d00;
+    border-radius: 20px;
+    background-color: #F5F5F5; 
+    font-size: 16px; 
+    color: #ff9d00bc;          
+    outline: none;          
+    transition: all 0.3s ease; 
+}
+
+.playlistBorder{
+    padding: 10px;
+    border: 1px solid #ff9d00;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+.playlists{
+    color: white;
+    text-align: center;
+    
+}
+
+#myPlaylist{
+    text-decoration: underline;
+    color: #ece0cd;
+}
+#createPlaylist{
+    color: #ece0cd;
+}
+.seperate{
+    margin-top: 50px;
+}

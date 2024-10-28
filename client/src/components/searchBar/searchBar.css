@@ -1,0 +1,26 @@
+.input{
+    width: 250px;            
+    padding: 10px 15px;      
+    border: 2px solid #ff9d00;
+    border-radius: 20px;
+    background-color: #F5F5F5; 
+    font-size: 16px; 
+    color: #ff9d00;          
+    outline: none;          
+    transition: all 0.3s ease; 
+}
+
+.button {
+    width: 80px;
+    height: 40px;
+    border: 2px solid #ff9d00;
+    border-radius: 20px;
+    font-size: 16px;
+    color: #ff9d00a8;
+    background-color: #F5F5F5;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+    margin-left: 10px;
+}
